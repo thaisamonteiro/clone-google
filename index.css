@@ -201,7 +201,12 @@ a.micro > img {
     cursor: pointer;
 }
 
+.desc-pesquisa {
+    text-align: center;
+}
+
 .desc-pesquisa > p {
+    display: inline-block;
     color:#ffffffee;
     font-size: 9px;
     background-color: #303030;
